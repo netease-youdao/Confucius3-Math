@@ -1,0 +1,14 @@
+.git
+__pycache__
+*.pyc
+*.env
+*.md
+*.sh
+*.png
+*.jpg
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store

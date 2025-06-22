@@ -1,0 +1,49 @@
+# pycache 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 依赖目录
+node_modules/
+dist/
+
+# 环境配置文件
+.env
+.env.local
+.env.*.local
+
+# 日志文件
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 编辑器目录和文件
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 构建输出
+build/
+out/
+
+# 测试覆盖率
+coverage/
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+
+# 本地配置文件
+config.local.js
