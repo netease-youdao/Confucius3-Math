@@ -9,9 +9,9 @@
 <hr>
 
 <div align="center" style="line-height: 1;">
-💜 <a href="https://confucius.youdao.com/"><b>Confucius Demo</b></a>&nbsp;&nbsp; | &nbsp;&nbsp;🤗 <a href="https://huggingface.co/netease-youdao">Hugging Face</a>&nbsp;&nbsp; | &nbsp;&nbsp;🤖 <a href="https://modelscope.cn/organization/netease-youdao">ModelScope</a>&nbsp;&nbsp; | &nbsp;&nbsp;⌨️ <a href="https://github.com/netease-youdao/Confucius3-Math">GitHub</a>
+💜 <a href="https://confucius.youdao.com/"><b>Confucius Demo</b></a>&nbsp;&nbsp; | &nbsp;&nbsp;🤗 <a href="https://huggingface.co/netease-youdao">Hugging Face</a>&nbsp;&nbsp; | &nbsp;&nbsp;🤖 <a href="https://modelscope.cn/organization/netease-youdao">ModelScope</a>&nbsp;&nbsp; | &nbsp;&nbsp;⌨️ <a href="https://github.com/netease-youdao/Confucius3-Math">GitHub</a>&nbsp;&nbsp; | &nbsp;&nbsp;⌨️ <a href="https://github.com/netease-youdao/Confucius3-Math/assets/wechat.png">Wechat</a>
 <br> 
-<a href="">📑 Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning</a> 
+<a href=""></a> 
 
 </div>
 
@@ -20,6 +20,8 @@
         <a href="README_cn.md">中文</a> | <b>English</b>
     <p>
 </h4>
+
+## 📑 Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning
 
 <div align="center">
   <img src="assets/performance.png" width="100%" alt="Confucius3-Math Performance" />
