@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center" style="line-height: 1;">
-💜 <a href="https://confucius.youdao.com/"><b>Confucius Demo</b></a>&nbsp;&nbsp; | &nbsp;&nbsp;🤗 <a href="https://huggingface.co/netease-youdao">Hugging Face</a>&nbsp;&nbsp; | &nbsp;&nbsp;🤖 <a href="https://modelscope.cn/organization/netease-youdao">ModelScope</a>&nbsp;&nbsp; | &nbsp;&nbsp;⌨️ <a href="https://github.com/netease-youdao/Confucius3-Math">GitHub</a>&nbsp;&nbsp; | &nbsp;&nbsp;⌨️ <a href="https://github.com/netease-youdao/Confucius3-Math/assets/wechat.png">Wechat</a>
+💜 <a href="https://confucius.youdao.com/"><b>Confucius Demo</b></a>&nbsp;&nbsp; | &nbsp;&nbsp;🤗 <a href="https://huggingface.co/netease-youdao">Hugging Face</a>&nbsp;&nbsp; | &nbsp;&nbsp;🤖 <a href="https://modelscope.cn/organization/netease-youdao">ModelScope</a>&nbsp;&nbsp; | &nbsp;&nbsp;⌨️ <a href="https://github.com/netease-youdao/Confucius3-Math">GitHub</a>&nbsp;&nbsp; | &nbsp;&nbsp;📚 <a href="https://github.com/netease-youdao/Confucius3-Math/blob/main/Confucius-Math-paper.pdf">Paper</a>&nbsp;&nbsp; | &nbsp;&nbsp;💬 <a href="https://github.com/netease-youdao/Confucius3-Math/blob/main/assets/wechat.png">Wechat</a>
 <br> 
 <a href=""></a> 
 
