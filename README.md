@@ -166,6 +166,12 @@ export ARK_API_KEY=xxx
 bash run_service_stream.sh
 ```  
 
+## WeChat Group
+
+Welcome to scan the QR code below and join the WeChat group.
+
+<img src="./assets/wechat.png" width="60%" height="auto">
+
 
 ## Citation
 If you find our work helpful, feel free to give us a cite.

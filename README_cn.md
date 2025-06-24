@@ -162,6 +162,14 @@ export ARK_API_KEY=xxx
 bash run_service_stream.sh
 ```
 
+
+## 微信交流群
+
+欢迎大家踊跃试用和反馈，技术讨论请扫码加入官方微信交流群。
+
+<img src="./assets/wechat.png" width="60%" height="auto">
+
+
 ## 引用
 如果你觉得我们的工作有帮助，欢迎引用我们的成果。
 ```
