@@ -173,11 +173,13 @@ bash run_service_stream.sh
 ## 引用
 如果你觉得我们的工作有帮助，欢迎引用我们的成果。
 ```
-@misc{confucius3-math,
-   author = {NetEase Youdao Team},
-   title = {Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning},
-   url = {https://huggingface.co/netease-youdao/Confucius3-Math},
-   month = {June},
-   year = {2025}
- }
+@misc{wu2025confucius3mathlightweighthighperformancereasoning,
+      title={Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning}, 
+      author={Lixin Wu and Na Cai and Qiao Cheng and Jiachen Wang and Yitao Duan},
+      year={2025},
+      eprint={2506.18330},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.18330}, 
+}
 ```
